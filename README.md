@@ -1,7 +1,7 @@
 # Dappx-GT2
 **README.md**
 
-# Motor DApp X
+# Motor DApp X IRON BEAR
 
 ## Overview
 
