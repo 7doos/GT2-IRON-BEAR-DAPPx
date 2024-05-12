@@ -1,4 +1,4 @@
-# Dappx-GT2# Dappx-GT2
+# Dappx-GT2
 **README.md**
 
 # Motor DApp X
