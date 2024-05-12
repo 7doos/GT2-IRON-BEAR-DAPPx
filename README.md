@@ -46,11 +46,11 @@ We welcome contributions from the community to enhance Motor DApp X. If you'd li
 ## Support
 
 For support or inquiries related to Motor DApp X, please reach out to us through the following channels:
-CEO:https://www.linkedin.com/in/lucasjanuariorbx/
+CEO  :https://www.linkedin.com/in/lucasjanuariorbx/
 <p>
   
 </p>
-org :https://medium.com/@NSC.INC
+org  :https://medium.com/@NSC.INC
 
 
 ## About
@@ -69,9 +69,13 @@ This project is licensed under the [Apache License](LICENSE).
 
 
 <P>
-  <P>
+    </P>
     
   </P>
+
+</P>
+     <P>
+  
 </P>
 <img src="a.jpeg">
 
